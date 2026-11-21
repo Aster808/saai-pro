@@ -1,2 +1,2 @@
-# saai-pro
-SAAI.pro — Agentic Business Website
+# saai-pro inspired project
+NEXORA — web Business Website
